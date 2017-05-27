@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Wendy's Blog
 subtitle:
 description:
-author: John Doe
-language:
+author: Wendy
+email: 892102951@qq.com
+language: zh-CN
 timezone:
 
 # URL
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-smackdown
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
